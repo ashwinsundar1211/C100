@@ -1,0 +1,46 @@
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 400px;
+}
+#start-btn
+{
+    width: 6%;
+    background-color: lightgreen;
+    border-radius: 10px;
+    height: 5%;
+}
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+body
+{
+  background-color: aqua;
+}
+h1
+{
+  font-family: 'Cedarville Cursive', cursive;
+}
+.copy_right_footer
+{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background-color: lightgreen;
+}
+#photo
+{
+  box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+#photo:hover
+{
+  border-radius: 140px;
+}
